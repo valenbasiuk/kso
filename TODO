@@ -1,0 +1,3 @@
+- add a new reward system for being close to the keys the fingers rest in
+- add a new button for 2x2s where the algorithm takes into account the inputted key for inventory that the user has set up in a new modifiable json in config
+- 
