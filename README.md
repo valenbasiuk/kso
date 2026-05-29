@@ -1,10 +1,7 @@
 > [!WARNING]
-> We still in beta btw
-# KSO
+> this is heavily a beta and its not intended for use just yet. the algorithm is unpolished and reorganization logic needs work still.
 
-A multi-objective optimizer for keyboard keybind layouts using Parallel Tampering. Optimizes keybind placements.
-
-<img src="./output/top_1.svg" width="400">
+sida1420's installation guide;
 
 ## Installation
 
